@@ -48,6 +48,7 @@ function generatePassword () {
     var confirmNumericValue = confirm('Do you want your password to contain numbers? If yes, click OK. If no, click Cancel.');
     var confirmSpecialCharacters = confirm('Do you want your password to contain special characters? If yes, click OK. If no, click Cancel.');
   }
+  
   // The below variable sets the master password array.
   var passwordMaster = []
 
