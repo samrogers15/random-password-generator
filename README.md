@@ -12,11 +12,12 @@
 This program was created within javascript and uses an html page, a css style sheet, and a javascript page. Everything is linked to the html page properly and the site is responsive such that if you view it from a mobile or tablet device, then it will operate properly.
 
 ## Screenshots
-![Horiseon Social Services Inc Screenshot](./assets/images/hsssi-screenshot.png)
+![Random Password Generator](./assets/images/hsssi-screenshot.png)
 
 ## Technologies
 * HTML
 * CSS
+* Javascript
 
 ## Live link
 https://samrogers15.github.io/hsssi-html-code-refactor/
